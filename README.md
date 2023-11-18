@@ -2,4 +2,3 @@
 ## Application Development Assignment A
 **Submitted by 12233630**
 
-Lorem ipsum dolor sit amet.
