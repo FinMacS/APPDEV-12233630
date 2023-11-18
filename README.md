@@ -2,5 +2,5 @@
 ## Application Development Assignment A
 **Submitted by 12233630**
 ### Photo
-![Bear Sitting](APPDEV-12233630/images/Bear.jpg)
+![Bear Sitting](APPDEV-12233630/images/Bear)
 ["Brown Bear Sitting on Grass Field"](https://unsplash.com/photos/brown-bear-sitting-on-grass-field-y421kXlUOQk) , by Mark Basarab, [unliscensed under the Unsplash License](https://unsplash.com/license)
